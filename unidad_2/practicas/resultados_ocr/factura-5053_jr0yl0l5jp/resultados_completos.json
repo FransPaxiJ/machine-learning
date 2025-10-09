@@ -1,0 +1,970 @@
+[
+  {
+    "archivo": "pag1_det1_customer_info_conf0.80.jpg",
+    "texto_completo": "Facturado a Angel Rosendo Condori Coaquira Jr. Huancas 370 Juliaca, San Roman, 21101 Peru",
+    "precision_promedio": 0.8870296744664158,
+    "num_detecciones": 6,
+    "detecciones": [
+      {
+        "texto": "Facturado",
+        "confianza": 0.9999973773939104,
+        "coordenadas": [
+          7,
+          23,
+          213,
+          23,
+          213,
+          67,
+          7,
+          67
+        ]
+      },
+      {
+        "texto": "a",
+        "confianza": 0.9733475338885036,
+        "coordenadas": [
+          222,
+          32,
+          250,
+          32,
+          250,
+          64,
+          222,
+          64
+        ]
+      },
+      {
+        "texto": "Angel Rosendo Condori Coaquira",
+        "confianza": 0.9164502749469218,
+        "coordenadas": [
+          8,
+          69,
+          576,
+          69,
+          576,
+          122,
+          8,
+          122
+        ]
+      },
+      {
+        "texto": "Jr. Huancas 370",
+        "confianza": 0.7803528283152819,
+        "coordenadas": [
+          7,
+          121,
+          289,
+          121,
+          289,
+          161,
+          7,
+          161
+        ]
+      },
+      {
+        "texto": "Juliaca, San Roman, 21101",
+        "confianza": 0.6520336085325636,
+        "coordenadas": [
+          5,
+          166,
+          471,
+          166,
+          471,
+          211,
+          5,
+          211
+        ]
+      },
+      {
+        "texto": "Peru",
+        "confianza": 0.9999964237213135,
+        "coordenadas": [
+          9,
+          217,
+          95,
+          217,
+          95,
+          255,
+          9,
+          255
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det2_logo_conf0.73.jpg",
+    "texto_completo": "gigoperú",
+    "precision_promedio": 0.9794293556816476,
+    "num_detecciones": 1,
+    "detecciones": [
+      {
+        "texto": "gigoperú",
+        "confianza": 0.9794293556816476,
+        "coordenadas": [
+          232,
+          0,
+          902,
+          0,
+          902,
+          206,
+          232,
+          206
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det3_vendor_info_conf0.56.jpg",
+    "texto_completo": "ServerPE S.A.C. Urb. Santa Catalina JLByR Arequipa (El presente recibo no tiene valor fiscal)",
+    "precision_promedio": 0.9530684207093882,
+    "num_detecciones": 5,
+    "detecciones": [
+      {
+        "texto": "ServerPE S.A.C.",
+        "confianza": 0.8904537615600505,
+        "coordenadas": [
+          286,
+          12,
+          695,
+          12,
+          695,
+          73,
+          286,
+          73
+        ]
+      },
+      {
+        "texto": "Urb. Santa Catalina",
+        "confianza": 0.9712045332978245,
+        "coordenadas": [
+          365,
+          76,
+          699,
+          76,
+          699,
+          119,
+          365,
+          119
+        ]
+      },
+      {
+        "texto": "JLByR",
+        "confianza": 0.997287369933877,
+        "coordenadas": [
+          394,
+          124,
+          516,
+          124,
+          516,
+          174,
+          394,
+          174
+        ]
+      },
+      {
+        "texto": "Arequipa",
+        "confianza": 0.9999848270868563,
+        "coordenadas": [
+          541,
+          123,
+          700,
+          123,
+          700,
+          175,
+          541,
+          175
+        ]
+      },
+      {
+        "texto": "(El presente recibo no tiene valor fiscal)",
+        "confianza": 0.9064116116683324,
+        "coordenadas": [
+          30,
+          170,
+          700,
+          170,
+          700,
+          222,
+          30,
+          222
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det4_customer_info_conf0.52.jpg",
+    "texto_completo": "Factura n%5053 Fecha de la Factura: 10/08/2025 Fecha de Vencimiento: 17/08/2025",
+    "precision_promedio": 0.7542513433175402,
+    "num_detecciones": 3,
+    "detecciones": [
+      {
+        "texto": "Factura n%5053",
+        "confianza": 0.5304679794181903,
+        "coordenadas": [
+          8,
+          22,
+          461,
+          22,
+          461,
+          89,
+          8,
+          89
+        ]
+      },
+      {
+        "texto": "Fecha de la Factura: 10/08/2025",
+        "confianza": 0.9670968602382167,
+        "coordenadas": [
+          9,
+          115,
+          619,
+          115,
+          619,
+          159,
+          9,
+          159
+        ]
+      },
+      {
+        "texto": "Fecha de Vencimiento: 17/08/2025",
+        "confianza": 0.7651891902962132,
+        "coordenadas": [
+          7,
+          183,
+          664,
+          183,
+          664,
+          234,
+          7,
+          234
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det5_bank_info_conf0.50.jpg",
+    "texto_completo": "ServerPE SA.C. Urb. Santa Catalina JLByR Arequipa (El presente recibo no tiene valor fiscal)",
+    "precision_promedio": 0.8860726223134556,
+    "num_detecciones": 5,
+    "detecciones": [
+      {
+        "texto": "ServerPE SA.C.",
+        "confianza": 0.9320465436018476,
+        "coordenadas": [
+          284,
+          12,
+          691,
+          12,
+          691,
+          73,
+          284,
+          73
+        ]
+      },
+      {
+        "texto": "Urb. Santa Catalina",
+        "confianza": 0.8052230646187983,
+        "coordenadas": [
+          363,
+          77,
+          693,
+          77,
+          693,
+          119,
+          363,
+          119
+        ]
+      },
+      {
+        "texto": "JLByR",
+        "confianza": 0.9969575229463028,
+        "coordenadas": [
+          392,
+          121,
+          517,
+          121,
+          517,
+          175,
+          392,
+          175
+        ]
+      },
+      {
+        "texto": "Arequipa",
+        "confianza": 0.9999798115751519,
+        "coordenadas": [
+          540,
+          126,
+          693,
+          126,
+          693,
+          174,
+          540,
+          174
+        ]
+      },
+      {
+        "texto": "(El presente recibo no tiene valor fiscal)",
+        "confianza": 0.6961561688251771,
+        "coordenadas": [
+          30,
+          170,
+          693,
+          170,
+          693,
+          222,
+          30,
+          222
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det6_paragraph_conf0.45.jpg",
+    "texto_completo": "Transacciones",
+    "precision_promedio": 0.9998693027488956,
+    "num_detecciones": 1,
+    "detecciones": [
+      {
+        "texto": "Transacciones",
+        "confianza": 0.9998693027488956,
+        "coordenadas": [
+          14,
+          8,
+          374,
+          8,
+          374,
+          62,
+          14,
+          62
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det7_table_conf0.37.jpg",
+    "texto_completo": "Descripción Total Básico todopuno.com (17/08/2025 16/08/2026) S/149.00 Soles Renovar Dominio todopuno.com 1 Año(s) (17/08/2025 16/08/2026) S/O.00 Soles Sub Total S/149.00 Soles Crédito SIO.00 Soles Total /140 0o Soles",
+    "precision_promedio": 0.8827944121317016,
+    "num_detecciones": 18,
+    "detecciones": [
+      {
+        "texto": "Descripción",
+        "confianza": 0.9836360288164098,
+        "coordenadas": [
+          742,
+          52,
+          962,
+          52,
+          962,
+          102,
+          742,
+          102
+        ]
+      },
+      {
+        "texto": "Total",
+        "confianza": 0.9999436490127405,
+        "coordenadas": [
+          1865,
+          53,
+          1961,
+          53,
+          1961,
+          95,
+          1865,
+          95
+        ]
+      },
+      {
+        "texto": "Básico",
+        "confianza": 0.9999290429647297,
+        "coordenadas": [
+          15,
+          116,
+          140,
+          116,
+          140,
+          165,
+          15,
+          165
+        ]
+      },
+      {
+        "texto": "todopuno.com (17/08/2025",
+        "confianza": 0.8829727646860179,
+        "coordenadas": [
+          156,
+          117,
+          620,
+          117,
+          620,
+          173,
+          156,
+          173
+        ]
+      },
+      {
+        "texto": "16/08/2026)",
+        "confianza": 0.9991049724180897,
+        "coordenadas": [
+          643,
+          116,
+          852,
+          116,
+          852,
+          166,
+          643,
+          166
+        ]
+      },
+      {
+        "texto": "S/149.00 Soles",
+        "confianza": 0.6284999601262459,
+        "coordenadas": [
+          1782,
+          117,
+          2047,
+          117,
+          2047,
+          165,
+          1782,
+          165
+        ]
+      },
+      {
+        "texto": "Renovar Dominio",
+        "confianza": 0.9698412501808572,
+        "coordenadas": [
+          17,
+          234,
+          316,
+          234,
+          316,
+          282,
+          17,
+          282
+        ]
+      },
+      {
+        "texto": "todopuno.com",
+        "confianza": 0.9929314207146939,
+        "coordenadas": [
+          335,
+          236,
+          586,
+          236,
+          586,
+          287,
+          335,
+          287
+        ]
+      },
+      {
+        "texto": "1",
+        "confianza": 0.9987531021345184,
+        "coordenadas": [
+          617,
+          245,
+          631,
+          245,
+          631,
+          271,
+          617,
+          271
+        ]
+      },
+      {
+        "texto": "Año(s) (17/08/2025",
+        "confianza": 0.9996047495901228,
+        "coordenadas": [
+          642,
+          230,
+          974,
+          230,
+          974,
+          282,
+          642,
+          282
+        ]
+      },
+      {
+        "texto": "16/08/2026)",
+        "confianza": 0.9997395394180442,
+        "coordenadas": [
+          995,
+          229,
+          1204,
+          229,
+          1204,
+          282,
+          995,
+          282
+        ]
+      },
+      {
+        "texto": "S/O.00 Soles",
+        "confianza": 0.5190507504114557,
+        "coordenadas": [
+          1804,
+          235,
+          2025,
+          235,
+          2025,
+          278,
+          1804,
+          278
+        ]
+      },
+      {
+        "texto": "Sub Total",
+        "confianza": 0.9995100539961226,
+        "coordenadas": [
+          1511,
+          349,
+          1689,
+          349,
+          1689,
+          391,
+          1511,
+          391
+        ]
+      },
+      {
+        "texto": "S/149.00 Soles",
+        "confianza": 0.8129188866556677,
+        "coordenadas": [
+          1779,
+          349,
+          2047,
+          349,
+          2047,
+          391,
+          1779,
+          391
+        ]
+      },
+      {
+        "texto": "Crédito",
+        "confianza": 0.9999928810053624,
+        "coordenadas": [
+          1551,
+          417,
+          1689,
+          417,
+          1689,
+          459,
+          1551,
+          459
+        ]
+      },
+      {
+        "texto": "SIO.00 Soles",
+        "confianza": 0.8247015582614575,
+        "coordenadas": [
+          1801,
+          417,
+          2027,
+          417,
+          2027,
+          459,
+          1801,
+          459
+        ]
+      },
+      {
+        "texto": "Total",
+        "confianza": 0.9977029534727858,
+        "coordenadas": [
+          1594,
+          488,
+          1690,
+          488,
+          1690,
+          515,
+          1594,
+          515
+        ]
+      },
+      {
+        "texto": "/140 0o Soles",
+        "confianza": 0.2814658545053075,
+        "coordenadas": [
+          1783,
+          487,
+          2047,
+          487,
+          2047,
+          515,
+          1783,
+          515
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det8_total_price_conf0.33.jpg",
+    "texto_completo": "Fecha Transacción MétodolGateway ID Transacción Total 12/08/2025 YAPE Depósito SI149.00 Soles Transferencia Bancaria Balance SIO.00 Soles",
+    "precision_promedio": 0.8658517252152397,
+    "num_detecciones": 11,
+    "detecciones": [
+      {
+        "texto": "Fecha Transacción",
+        "confianza": 0.8863906863937578,
+        "coordenadas": [
+          91,
+          91,
+          437,
+          91,
+          437,
+          135,
+          91,
+          135
+        ]
+      },
+      {
+        "texto": "MétodolGateway",
+        "confianza": 0.9996522270490339,
+        "coordenadas": [
+          641,
+          85,
+          946,
+          85,
+          946,
+          142,
+          641,
+          142
+        ]
+      },
+      {
+        "texto": "ID Transacción",
+        "confianza": 0.9986202735344959,
+        "coordenadas": [
+          1239,
+          91,
+          1515,
+          91,
+          1515,
+          135,
+          1239,
+          135
+        ]
+      },
+      {
+        "texto": "Total",
+        "confianza": 0.9999737171358378,
+        "coordenadas": [
+          1859,
+          93,
+          1955,
+          93,
+          1955,
+          133,
+          1859,
+          133
+        ]
+      },
+      {
+        "texto": "12/08/2025",
+        "confianza": 0.9291385608376687,
+        "coordenadas": [
+          167,
+          159,
+          363,
+          159,
+          363,
+          201,
+          167,
+          201
+        ]
+      },
+      {
+        "texto": "YAPE",
+        "confianza": 0.9998605251312256,
+        "coordenadas": [
+          639,
+          159,
+          747,
+          159,
+          747,
+          201,
+          639,
+          201
+        ]
+      },
+      {
+        "texto": "Depósito",
+        "confianza": 0.8211776432526099,
+        "coordenadas": [
+          772,
+          158,
+          930,
+          158,
+          930,
+          208,
+          772,
+          208
+        ]
+      },
+      {
+        "texto": "SI149.00 Soles",
+        "confianza": 0.5862120176020532,
+        "coordenadas": [
+          1778,
+          157,
+          2041,
+          157,
+          2041,
+          205,
+          1778,
+          205
+        ]
+      },
+      {
+        "texto": "Transferencia Bancaria",
+        "confianza": 0.6986989776627903,
+        "coordenadas": [
+          594,
+          207,
+          993,
+          207,
+          993,
+          249,
+          594,
+          249
+        ]
+      },
+      {
+        "texto": "Balance",
+        "confianza": 0.9999899523002863,
+        "coordenadas": [
+          1532,
+          274,
+          1685,
+          274,
+          1685,
+          319,
+          1532,
+          319
+        ]
+      },
+      {
+        "texto": "SIO.00 Soles",
+        "confianza": 0.6046543964678776,
+        "coordenadas": [
+          1795,
+          275,
+          2019,
+          275,
+          2019,
+          317,
+          1795,
+          317
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det9_total_price_conf0.29.jpg",
+    "texto_completo": "Olal o/ | 49.UU 001e5 Transacciones Fecha Transacción MétodolGateway ID Transacción Total 12/08/2025 YAPE Depósito Sl149.00 Soles Transferencia Bancaria Balance S/O.00 Soles",
+    "precision_promedio": 0.8408811140023927,
+    "num_detecciones": 14,
+    "detecciones": [
+      {
+        "texto": "Olal",
+        "confianza": 0.455625981092453,
+        "coordenadas": [
+          1612,
+          0,
+          1684,
+          0,
+          1684,
+          24,
+          1612,
+          24
+        ]
+      },
+      {
+        "texto": "o/ | 49.UU 001e5",
+        "confianza": 0.25724819995369663,
+        "coordenadas": [
+          1778,
+          0,
+          2042,
+          0,
+          2042,
+          24,
+          1778,
+          24
+        ]
+      },
+      {
+        "texto": "Transacciones",
+        "confianza": 0.9654761453445464,
+        "coordenadas": [
+          10,
+          170,
+          368,
+          170,
+          368,
+          222,
+          10,
+          222
+        ]
+      },
+      {
+        "texto": "Fecha Transacción",
+        "confianza": 0.9744699089133054,
+        "coordenadas": [
+          91,
+          297,
+          440,
+          297,
+          440,
+          345,
+          91,
+          345
+        ]
+      },
+      {
+        "texto": "MétodolGateway",
+        "confianza": 0.999904352228233,
+        "coordenadas": [
+          642,
+          291,
+          949,
+          291,
+          949,
+          351,
+          642,
+          351
+        ]
+      },
+      {
+        "texto": "ID Transacción",
+        "confianza": 0.9966541583787097,
+        "coordenadas": [
+          1241,
+          299,
+          1517,
+          299,
+          1517,
+          343,
+          1241,
+          343
+        ]
+      },
+      {
+        "texto": "Total",
+        "confianza": 0.999964280874654,
+        "coordenadas": [
+          1860,
+          298,
+          1959,
+          298,
+          1959,
+          342,
+          1860,
+          342
+        ]
+      },
+      {
+        "texto": "12/08/2025",
+        "confianza": 0.8569930427927656,
+        "coordenadas": [
+          169,
+          367,
+          365,
+          367,
+          365,
+          409,
+          169,
+          409
+        ]
+      },
+      {
+        "texto": "YAPE",
+        "confianza": 0.9998502731323242,
+        "coordenadas": [
+          641,
+          367,
+          749,
+          367,
+          749,
+          407,
+          641,
+          407
+        ]
+      },
+      {
+        "texto": "Depósito",
+        "confianza": 0.9920706711233942,
+        "coordenadas": [
+          774,
+          366,
+          932,
+          366,
+          932,
+          416,
+          774,
+          416
+        ]
+      },
+      {
+        "texto": "Sl149.00 Soles",
+        "confianza": 0.5596306786588817,
+        "coordenadas": [
+          1779,
+          367,
+          2041,
+          367,
+          2041,
+          409,
+          1779,
+          409
+        ]
+      },
+      {
+        "texto": "Transferencia Bancaria",
+        "confianza": 0.998460076372897,
+        "coordenadas": [
+          597,
+          415,
+          995,
+          415,
+          995,
+          457,
+          597,
+          457
+        ]
+      },
+      {
+        "texto": "Balance",
+        "confianza": 0.9704769750477961,
+        "coordenadas": [
+          1537,
+          483,
+          1687,
+          483,
+          1687,
+          523,
+          1537,
+          523
+        ]
+      },
+      {
+        "texto": "S/O.00 Soles",
+        "confianza": 0.7455108521198404,
+        "coordenadas": [
+          1795,
+          481,
+          2021,
+          481,
+          2021,
+          523,
+          1795,
+          523
+        ]
+      }
+    ]
+  }
+]

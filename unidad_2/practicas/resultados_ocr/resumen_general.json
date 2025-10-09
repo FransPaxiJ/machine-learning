@@ -1,0 +1,20 @@
+{
+  "op-1632031_ufzh8cap6i": {
+    "total_imagenes": 27,
+    "imagenes_con_texto": 26,
+    "total_detecciones": 121,
+    "precision_promedio": "84.92%"
+  },
+  "20427799973-03-b090-00053521_uzw3qr4qjh": {
+    "total_imagenes": 14,
+    "imagenes_con_texto": 13,
+    "total_detecciones": 126,
+    "precision_promedio": "78.96%"
+  },
+  "factura-5053_jr0yl0l5jp": {
+    "total_imagenes": 9,
+    "imagenes_con_texto": 9,
+    "total_detecciones": 64,
+    "precision_promedio": "89.44%"
+  }
+}

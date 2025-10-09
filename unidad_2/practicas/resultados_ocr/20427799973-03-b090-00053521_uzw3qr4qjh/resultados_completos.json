@@ -1,0 +1,1877 @@
+[
+  {
+    "archivo": "pag1_det10_paragraph_conf0.39.jpg",
+    "texto_completo": "FOOTLOOSE",
+    "precision_promedio": 0.9998625072265441,
+    "num_detecciones": 1,
+    "detecciones": [
+      {
+        "texto": "FOOTLOOSE",
+        "confianza": 0.9998625072265441,
+        "coordenadas": [
+          10,
+          20,
+          626,
+          20,
+          626,
+          122,
+          10,
+          122
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det11_logo_conf0.36.jpg",
+    "texto_completo": "FOOTLOOSE",
+    "precision_promedio": 0.9997282638317115,
+    "num_detecciones": 1,
+    "detecciones": [
+      {
+        "texto": "FOOTLOOSE",
+        "confianza": 0.9997282638317115,
+        "coordenadas": [
+          14,
+          18,
+          630,
+          18,
+          630,
+          120,
+          14,
+          120
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det12_table_conf0.33.jpg",
+    "texto_completo": "ítem Código Descripción Und. Cantidad V Unitario P Unitario Descuento Valor Venta (afecto al IGV) 18805081999 100000569929-ARTESCO MOCHILA AR16372234 NIU 1.00 118.56 139.90 0.001 118- SPIDERMAN MICROFIBRASINTETICO AZUL-0Q.0",
+    "precision_promedio": 0.8901763585889145,
+    "num_detecciones": 22,
+    "detecciones": [
+      {
+        "texto": "ítem",
+        "confianza": 0.8738142848014832,
+        "coordenadas": [
+          14,
+          43,
+          86,
+          43,
+          86,
+          86,
+          14,
+          86
+        ]
+      },
+      {
+        "texto": "Código",
+        "confianza": 0.9926317657729338,
+        "coordenadas": [
+          149,
+          49,
+          257,
+          49,
+          257,
+          87,
+          149,
+          87
+        ]
+      },
+      {
+        "texto": "Descripción",
+        "confianza": 0.8507808717965315,
+        "coordenadas": [
+          594,
+          46,
+          767,
+          46,
+          767,
+          88,
+          594,
+          88
+        ]
+      },
+      {
+        "texto": "Und.",
+        "confianza": 0.5620840678979581,
+        "coordenadas": [
+          1068,
+          50,
+          1132,
+          50,
+          1132,
+          82,
+          1068,
+          82
+        ]
+      },
+      {
+        "texto": "Cantidad",
+        "confianza": 0.9995797593418292,
+        "coordenadas": [
+          1188,
+          50,
+          1318,
+          50,
+          1318,
+          82,
+          1188,
+          82
+        ]
+      },
+      {
+        "texto": "V",
+        "confianza": 0.9879528540118123,
+        "coordenadas": [
+          1408,
+          50,
+          1434,
+          50,
+          1434,
+          78,
+          1408,
+          78
+        ]
+      },
+      {
+        "texto": "Unitario",
+        "confianza": 0.9999806123718373,
+        "coordenadas": [
+          1444,
+          50,
+          1558,
+          50,
+          1558,
+          82,
+          1444,
+          82
+        ]
+      },
+      {
+        "texto": "P",
+        "confianza": 0.9937451249900278,
+        "coordenadas": [
+          1658,
+          50,
+          1684,
+          50,
+          1684,
+          80,
+          1658,
+          80
+        ]
+      },
+      {
+        "texto": "Unitario",
+        "confianza": 0.9999806123718373,
+        "coordenadas": [
+          1694,
+          50,
+          1808,
+          50,
+          1808,
+          82,
+          1694,
+          82
+        ]
+      },
+      {
+        "texto": "Descuento",
+        "confianza": 0.9998625502007472,
+        "coordenadas": [
+          1886,
+          50,
+          2040,
+          50,
+          2040,
+          82,
+          1886,
+          82
+        ]
+      },
+      {
+        "texto": "Valor Venta",
+        "confianza": 0.9778974998891503,
+        "coordenadas": [
+          2110,
+          50,
+          2274,
+          50,
+          2274,
+          82,
+          2110,
+          82
+        ]
+      },
+      {
+        "texto": "(afecto al IGV)",
+        "confianza": 0.9858143376224459,
+        "coordenadas": [
+          1863,
+          85,
+          2061,
+          85,
+          2061,
+          123,
+          1863,
+          123
+        ]
+      },
+      {
+        "texto": "18805081999",
+        "confianza": 0.9999980231362888,
+        "coordenadas": [
+          114,
+          132,
+          296,
+          132,
+          296,
+          164,
+          114,
+          164
+        ]
+      },
+      {
+        "texto": "100000569929-ARTESCO",
+        "confianza": 0.9997455017235473,
+        "coordenadas": [
+          316,
+          132,
+          668,
+          132,
+          668,
+          164,
+          316,
+          164
+        ]
+      },
+      {
+        "texto": "MOCHILA AR16372234",
+        "confianza": 0.8654220025251891,
+        "coordenadas": [
+          702,
+          132,
+          1018,
+          132,
+          1018,
+          164,
+          702,
+          164
+        ]
+      },
+      {
+        "texto": "NIU",
+        "confianza": 0.9862549304962158,
+        "coordenadas": [
+          1076,
+          134,
+          1130,
+          134,
+          1130,
+          164,
+          1076,
+          164
+        ]
+      },
+      {
+        "texto": "1.00",
+        "confianza": 0.8330338261124829,
+        "coordenadas": [
+          1296,
+          134,
+          1356,
+          134,
+          1356,
+          164,
+          1296,
+          164
+        ]
+      },
+      {
+        "texto": "118.56",
+        "confianza": 0.972145313741875,
+        "coordenadas": [
+          1512,
+          134,
+          1608,
+          134,
+          1608,
+          164,
+          1512,
+          164
+        ]
+      },
+      {
+        "texto": "139.90",
+        "confianza": 0.9999162919920794,
+        "coordenadas": [
+          1762,
+          134,
+          1856,
+          134,
+          1856,
+          164,
+          1762,
+          164
+        ]
+      },
+      {
+        "texto": "0.001",
+        "confianza": 0.32245642267040076,
+        "coordenadas": [
+          2002,
+          134,
+          2066,
+          134,
+          2066,
+          164,
+          2002,
+          164
+        ]
+      },
+      {
+        "texto": "118-",
+        "confianza": 0.8359980583190918,
+        "coordenadas": [
+          2222,
+          134,
+          2276,
+          134,
+          2276,
+          164,
+          2222,
+          164
+        ]
+      },
+      {
+        "texto": "SPIDERMAN MICROFIBRASINTETICO AZUL-0Q.0",
+        "confianza": 0.5447851771703524,
+        "coordenadas": [
+          314,
+          167,
+          998,
+          167,
+          998,
+          200,
+          314,
+          200
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det13_paragraph_conf0.31.jpg",
+    "texto_completo": "RUC 20427799973-B090-00053521",
+    "precision_promedio": 0.8619945958933455,
+    "num_detecciones": 2,
+    "detecciones": [
+      {
+        "texto": "RUC",
+        "confianza": 0.9947737095215131,
+        "coordenadas": [
+          13,
+          27,
+          123,
+          27,
+          123,
+          69,
+          13,
+          69
+        ]
+      },
+      {
+        "texto": "20427799973-B090-00053521",
+        "confianza": 0.729215482265178,
+        "coordenadas": [
+          150,
+          29,
+          662,
+          29,
+          662,
+          70,
+          150,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det14_invoice_detail_conf0.25.jpg",
+    "texto_completo": "Descripción Und Cantidad V. Unitario P. Unitario Descuento Valor Venta (afecto al IGV)",
+    "precision_promedio": 0.8595608384226653,
+    "num_detecciones": 9,
+    "detecciones": [
+      {
+        "texto": "Descripción",
+        "confianza": 0.9492354860860662,
+        "coordenadas": [
+          41,
+          45,
+          215,
+          45,
+          215,
+          85,
+          41,
+          85
+        ]
+      },
+      {
+        "texto": "Und",
+        "confianza": 0.9956540465354919,
+        "coordenadas": [
+          514,
+          46,
+          578,
+          46,
+          578,
+          78,
+          514,
+          78
+        ]
+      },
+      {
+        "texto": "Cantidad",
+        "confianza": 0.9999616460631937,
+        "coordenadas": [
+          636,
+          46,
+          766,
+          46,
+          766,
+          78,
+          636,
+          78
+        ]
+      },
+      {
+        "texto": "V. Unitario",
+        "confianza": 0.8187389134693833,
+        "coordenadas": [
+          856,
+          46,
+          1006,
+          46,
+          1006,
+          78,
+          856,
+          78
+        ]
+      },
+      {
+        "texto": "P.",
+        "confianza": 0.5480333718048577,
+        "coordenadas": [
+          1106,
+          46,
+          1132,
+          46,
+          1132,
+          76,
+          1106,
+          76
+        ]
+      },
+      {
+        "texto": "Unitario",
+        "confianza": 0.8538466315193165,
+        "coordenadas": [
+          1142,
+          46,
+          1256,
+          46,
+          1256,
+          78,
+          1142,
+          78
+        ]
+      },
+      {
+        "texto": "Descuento",
+        "confianza": 0.6558447029427265,
+        "coordenadas": [
+          1332,
+          48,
+          1486,
+          48,
+          1486,
+          80,
+          1332,
+          80
+        ]
+      },
+      {
+        "texto": "Valor Venta",
+        "confianza": 0.9807130091350663,
+        "coordenadas": [
+          1556,
+          46,
+          1722,
+          46,
+          1722,
+          78,
+          1556,
+          78
+        ]
+      },
+      {
+        "texto": "(afecto al IGV)",
+        "confianza": 0.9340197382478851,
+        "coordenadas": [
+          1309,
+          81,
+          1507,
+          81,
+          1507,
+          117,
+          1309,
+          117
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det1_logo_conf0.83.jpg",
+    "texto_completo": "",
+    "precision_promedio": 0.0,
+    "num_detecciones": 0,
+    "detecciones": []
+  },
+  {
+    "archivo": "pag1_det2_customer_info_conf0.74.jpg",
+    "texto_completo": "RUC N% 20427799973 BOLETA DE VENTA ELECTRÓNICA B090-00053521",
+    "precision_promedio": 0.8772543593131443,
+    "num_detecciones": 5,
+    "detecciones": [
+      {
+        "texto": "RUC N% 20427799973",
+        "confianza": 0.4867912592727479,
+        "coordenadas": [
+          34,
+          44,
+          743,
+          44,
+          743,
+          116,
+          34,
+          116
+        ]
+      },
+      {
+        "texto": "BOLETA",
+        "confianza": 0.9801564910518794,
+        "coordenadas": [
+          97,
+          140,
+          370,
+          140,
+          370,
+          208,
+          97,
+          208
+        ]
+      },
+      {
+        "texto": "DE VENTA",
+        "confianza": 0.98682514167382,
+        "coordenadas": [
+          389,
+          141,
+          727,
+          141,
+          727,
+          209,
+          389,
+          209
+        ]
+      },
+      {
+        "texto": "ELECTRÓNICA",
+        "confianza": 0.9989365429725414,
+        "coordenadas": [
+          164,
+          228,
+          648,
+          228,
+          648,
+          306,
+          164,
+          306
+        ]
+      },
+      {
+        "texto": "B090-00053521",
+        "confianza": 0.9335623615947332,
+        "coordenadas": [
+          162,
+          334,
+          640,
+          334,
+          640,
+          400,
+          162,
+          400
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det3_paragraph_conf0.69.jpg",
+    "texto_completo": "Representación Impresa de la Boleta Electrónica; consulte en https:Ilsfe bizlinks.com.pe",
+    "precision_promedio": 0.736144026147442,
+    "num_detecciones": 1,
+    "detecciones": [
+      {
+        "texto": "Representación Impresa de la Boleta Electrónica; consulte en https:Ilsfe bizlinks.com.pe",
+        "confianza": 0.736144026147442,
+        "coordenadas": [
+          15,
+          37,
+          1163,
+          37,
+          1163,
+          79,
+          15,
+          79
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det4_invoice_detail_conf0.66.jpg",
+    "texto_completo": "DNI: 41979614 Fecha Emisión: 20/02/2022",
+    "precision_promedio": 0.9830394383931326,
+    "num_detecciones": 4,
+    "detecciones": [
+      {
+        "texto": "DNI:",
+        "confianza": 0.93227363379077,
+        "coordenadas": [
+          14,
+          28,
+          78,
+          28,
+          78,
+          60,
+          14,
+          60
+        ]
+      },
+      {
+        "texto": "41979614",
+        "confianza": 0.9999954481360697,
+        "coordenadas": [
+          478,
+          28,
+          616,
+          28,
+          616,
+          60,
+          478,
+          60
+        ]
+      },
+      {
+        "texto": "Fecha Emisión:",
+        "confianza": 0.999893496905233,
+        "coordenadas": [
+          13,
+          89,
+          235,
+          89,
+          235,
+          125,
+          13,
+          125
+        ]
+      },
+      {
+        "texto": "20/02/2022",
+        "confianza": 0.9999951747404573,
+        "coordenadas": [
+          478,
+          92,
+          632,
+          92,
+          632,
+          124,
+          478,
+          124
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det5_table_conf0.59.jpg",
+    "texto_completo": "049) V9uiiNuig nru ci Cru ~uC Uig Vuinlu (afecto al IGV) 18805081999 100000569929-ARTESCO MOCHILA AR16372234 NIU 1.00 118.56 139.90 0.001 118.56 SPIDERMAN MICROFIBRAISINTETICO AZUL-0O.0 ON: CIENTO TREINTA Y NUEVE CON 90/100 SOLES Op. Gravada SI 118.56 IG.V (189) SI 21.34 Op. Inafecta SI 0.00 Op. Exonerada SI 0.00 Op. Exportacion SI 0.00 Importe Total SI 139.90",
+    "precision_promedio": 0.7090271223446609,
+    "num_detecciones": 38,
+    "detecciones": [
+      {
+        "texto": "049)",
+        "confianza": 0.05005152150988579,
+        "coordenadas": [
+          149,
+          0,
+          227,
+          0,
+          227,
+          15,
+          149,
+          15
+        ]
+      },
+      {
+        "texto": "V9uiiNuig",
+        "confianza": 0.0025311082455963655,
+        "coordenadas": [
+          593,
+          0,
+          721,
+          0,
+          721,
+          13,
+          593,
+          13
+        ]
+      },
+      {
+        "texto": "nru",
+        "confianza": 0.10522211199264886,
+        "coordenadas": [
+          1045,
+          0,
+          1099,
+          0,
+          1099,
+          11,
+          1045,
+          11
+        ]
+      },
+      {
+        "texto": "ci",
+        "confianza": 0.04833043467191672,
+        "coordenadas": [
+          1167,
+          0,
+          1213,
+          0,
+          1213,
+          11,
+          1167,
+          11
+        ]
+      },
+      {
+        "texto": "Cru",
+        "confianza": 0.028801137590396104,
+        "coordenadas": [
+          1219,
+          0,
+          1257,
+          0,
+          1257,
+          11,
+          1219,
+          11
+        ]
+      },
+      {
+        "texto": "~uC",
+        "confianza": 0.018686038439283004,
+        "coordenadas": [
+          1864,
+          0,
+          1966,
+          0,
+          1966,
+          9,
+          1864,
+          9
+        ]
+      },
+      {
+        "texto": "Uig",
+        "confianza": 0.019252549869439573,
+        "coordenadas": [
+          2105,
+          0,
+          2147,
+          0,
+          2147,
+          11,
+          2105,
+          11
+        ]
+      },
+      {
+        "texto": "Vuinlu",
+        "confianza": 0.04007655627347422,
+        "coordenadas": [
+          2171,
+          0,
+          2245,
+          0,
+          2245,
+          11,
+          2171,
+          11
+        ]
+      },
+      {
+        "texto": "(afecto al IGV)",
+        "confianza": 0.9860867940652736,
+        "coordenadas": [
+          1837,
+          17,
+          2035,
+          17,
+          2035,
+          55,
+          1837,
+          55
+        ]
+      },
+      {
+        "texto": "18805081999",
+        "confianza": 0.9999979871932885,
+        "coordenadas": [
+          86,
+          64,
+          270,
+          64,
+          270,
+          96,
+          86,
+          96
+        ]
+      },
+      {
+        "texto": "100000569929-ARTESCO",
+        "confianza": 0.9369927034112726,
+        "coordenadas": [
+          290,
+          66,
+          642,
+          66,
+          642,
+          96,
+          290,
+          96
+        ]
+      },
+      {
+        "texto": "MOCHILA AR16372234",
+        "confianza": 0.8753907424539544,
+        "coordenadas": [
+          676,
+          64,
+          992,
+          64,
+          992,
+          96,
+          676,
+          96
+        ]
+      },
+      {
+        "texto": "NIU",
+        "confianza": 0.9926998848848526,
+        "coordenadas": [
+          1048,
+          66,
+          1104,
+          66,
+          1104,
+          96,
+          1048,
+          96
+        ]
+      },
+      {
+        "texto": "1.00",
+        "confianza": 0.915697090813879,
+        "coordenadas": [
+          1270,
+          66,
+          1328,
+          66,
+          1328,
+          94,
+          1270,
+          94
+        ]
+      },
+      {
+        "texto": "118.56",
+        "confianza": 0.9820046878049228,
+        "coordenadas": [
+          1486,
+          66,
+          1582,
+          66,
+          1582,
+          96,
+          1486,
+          96
+        ]
+      },
+      {
+        "texto": "139.90",
+        "confianza": 0.999920039419131,
+        "coordenadas": [
+          1736,
+          66,
+          1830,
+          66,
+          1830,
+          96,
+          1736,
+          96
+        ]
+      },
+      {
+        "texto": "0.001",
+        "confianza": 0.32134175699645234,
+        "coordenadas": [
+          1976,
+          66,
+          2040,
+          66,
+          2040,
+          96,
+          1976,
+          96
+        ]
+      },
+      {
+        "texto": "118.56",
+        "confianza": 0.9978876448290184,
+        "coordenadas": [
+          2194,
+          66,
+          2290,
+          66,
+          2290,
+          96,
+          2194,
+          96
+        ]
+      },
+      {
+        "texto": "SPIDERMAN MICROFIBRAISINTETICO AZUL-0O.0",
+        "confianza": 0.5545032839421287,
+        "coordenadas": [
+          288,
+          100,
+          970,
+          100,
+          970,
+          132,
+          288,
+          132
+        ]
+      },
+      {
+        "texto": "ON: CIENTO TREINTA Y NUEVE CON 90/100 SOLES",
+        "confianza": 0.7245202709204487,
+        "coordenadas": [
+          0,
+          149,
+          717,
+          149,
+          717,
+          185,
+          0,
+          185
+        ]
+      },
+      {
+        "texto": "Op. Gravada",
+        "confianza": 0.9438221633698627,
+        "coordenadas": [
+          1075,
+          158,
+          1255,
+          158,
+          1255,
+          197,
+          1075,
+          197
+        ]
+      },
+      {
+        "texto": "SI",
+        "confianza": 0.9278472153674401,
+        "coordenadas": [
+          1776,
+          160,
+          1810,
+          160,
+          1810,
+          192,
+          1776,
+          192
+        ]
+      },
+      {
+        "texto": "118.56",
+        "confianza": 0.9979583854602355,
+        "coordenadas": [
+          2194,
+          160,
+          2290,
+          160,
+          2290,
+          192,
+          2194,
+          192
+        ]
+      },
+      {
+        "texto": "IG.V (189)",
+        "confianza": 0.642687096185856,
+        "coordenadas": [
+          1073,
+          213,
+          1235,
+          213,
+          1235,
+          251,
+          1073,
+          251
+        ]
+      },
+      {
+        "texto": "SI",
+        "confianza": 0.9265228585464566,
+        "coordenadas": [
+          1776,
+          214,
+          1810,
+          214,
+          1810,
+          246,
+          1776,
+          246
+        ]
+      },
+      {
+        "texto": "21.34",
+        "confianza": 0.815550637115002,
+        "coordenadas": [
+          2210,
+          214,
+          2290,
+          214,
+          2290,
+          246,
+          2210,
+          246
+        ]
+      },
+      {
+        "texto": "Op. Inafecta",
+        "confianza": 0.9192565436458264,
+        "coordenadas": [
+          1075,
+          267,
+          1249,
+          267,
+          1249,
+          305,
+          1075,
+          305
+        ]
+      },
+      {
+        "texto": "SI",
+        "confianza": 0.9224770456536031,
+        "coordenadas": [
+          1775,
+          267,
+          1811,
+          267,
+          1811,
+          303,
+          1775,
+          303
+        ]
+      },
+      {
+        "texto": "0.00",
+        "confianza": 0.786158189046362,
+        "coordenadas": [
+          2226,
+          270,
+          2290,
+          270,
+          2290,
+          300,
+          2226,
+          300
+        ]
+      },
+      {
+        "texto": "Op. Exonerada",
+        "confianza": 0.7244261796205355,
+        "coordenadas": [
+          1075,
+          323,
+          1287,
+          323,
+          1287,
+          361,
+          1075,
+          361
+        ]
+      },
+      {
+        "texto": "SI",
+        "confianza": 0.9174141961160054,
+        "coordenadas": [
+          1773,
+          319,
+          1811,
+          319,
+          1811,
+          357,
+          1773,
+          357
+        ]
+      },
+      {
+        "texto": "0.00",
+        "confianza": 0.9919911399829312,
+        "coordenadas": [
+          2226,
+          324,
+          2290,
+          324,
+          2290,
+          356,
+          2226,
+          356
+        ]
+      },
+      {
+        "texto": "Op. Exportacion",
+        "confianza": 0.9990488237453764,
+        "coordenadas": [
+          1075,
+          377,
+          1305,
+          377,
+          1305,
+          415,
+          1075,
+          415
+        ]
+      },
+      {
+        "texto": "SI",
+        "confianza": 0.8980644886934535,
+        "coordenadas": [
+          1773,
+          375,
+          1811,
+          375,
+          1811,
+          411,
+          1773,
+          411
+        ]
+      },
+      {
+        "texto": "0.00",
+        "confianza": 0.9953851196211283,
+        "coordenadas": [
+          2226,
+          378,
+          2290,
+          378,
+          2290,
+          410,
+          2226,
+          410
+        ]
+      },
+      {
+        "texto": "Importe Total",
+        "confianza": 0.9983435176834998,
+        "coordenadas": [
+          1075,
+          485,
+          1265,
+          485,
+          1265,
+          523,
+          1075,
+          523
+        ]
+      },
+      {
+        "texto": "SI",
+        "confianza": 0.9363580136674959,
+        "coordenadas": [
+          1776,
+          486,
+          1810,
+          486,
+          1810,
+          516,
+          1776,
+          516
+        ]
+      },
+      {
+        "texto": "139.90",
+        "confianza": 0.9997246902487747,
+        "coordenadas": [
+          2194,
+          486,
+          2290,
+          486,
+          2290,
+          518,
+          2194,
+          518
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det6_invoice_detail_conf0.54.jpg",
+    "texto_completo": "INVERSIONES RUBIN'S S.A.C- JR. DE LA UNION NRO. 553 LIMA LIMA LIMA SANTA ANITA LIMA LIMA NombrelRazón Social: CONDORI QUISPICHITO MIGUEL ANGEL Dirección: ANGELCONDORI@GMAIL.COM Moneda: Sol",
+    "precision_promedio": 0.8974221376960402,
+    "num_detecciones": 13,
+    "detecciones": [
+      {
+        "texto": "INVERSIONES RUBIN'S S.A.C-",
+        "confianza": 0.6914345842441032,
+        "coordenadas": [
+          10,
+          31,
+          430,
+          31,
+          430,
+          64,
+          10,
+          64
+        ]
+      },
+      {
+        "texto": "JR. DE LA UNION NRO. 553 LIMA",
+        "confianza": 0.46543263858187217,
+        "coordenadas": [
+          10,
+          100,
+          468,
+          100,
+          468,
+          132,
+          10,
+          132
+        ]
+      },
+      {
+        "texto": "LIMA",
+        "confianza": 0.9999097585678101,
+        "coordenadas": [
+          488,
+          100,
+          562,
+          100,
+          562,
+          132,
+          488,
+          132
+        ]
+      },
+      {
+        "texto": "LIMA",
+        "confianza": 0.9999090433120728,
+        "coordenadas": [
+          582,
+          100,
+          654,
+          100,
+          654,
+          132,
+          582,
+          132
+        ]
+      },
+      {
+        "texto": "SANTA ANITA",
+        "confianza": 0.992847878641345,
+        "coordenadas": [
+          12,
+          136,
+          208,
+          136,
+          208,
+          168,
+          12,
+          168
+        ]
+      },
+      {
+        "texto": "LIMA",
+        "confianza": 0.9999239444732666,
+        "coordenadas": [
+          228,
+          136,
+          302,
+          136,
+          302,
+          168,
+          228,
+          168
+        ]
+      },
+      {
+        "texto": "LIMA",
+        "confianza": 0.9999216794967651,
+        "coordenadas": [
+          322,
+          136,
+          394,
+          136,
+          394,
+          168,
+          322,
+          168
+        ]
+      },
+      {
+        "texto": "NombrelRazón Social:",
+        "confianza": 0.7913867080617258,
+        "coordenadas": [
+          11,
+          193,
+          325,
+          193,
+          325,
+          229,
+          11,
+          229
+        ]
+      },
+      {
+        "texto": "CONDORI QUISPICHITO MIGUEL ANGEL",
+        "confianza": 0.8751206783009765,
+        "coordenadas": [
+          337,
+          193,
+          909,
+          193,
+          909,
+          229,
+          337,
+          229
+        ]
+      },
+      {
+        "texto": "Dirección:",
+        "confianza": 0.9304606104342263,
+        "coordenadas": [
+          9,
+          255,
+          159,
+          255,
+          159,
+          291,
+          9,
+          291
+        ]
+      },
+      {
+        "texto": "ANGELCONDORI@GMAIL.COM",
+        "confianza": 0.9222066445590461,
+        "coordenadas": [
+          341,
+          257,
+          778,
+          257,
+          778,
+          290,
+          341,
+          290
+        ]
+      },
+      {
+        "texto": "Moneda:",
+        "confianza": 0.9999563354700713,
+        "coordenadas": [
+          12,
+          319,
+          135,
+          319,
+          135,
+          351,
+          12,
+          351
+        ]
+      },
+      {
+        "texto": "Sol",
+        "confianza": 0.997977285905242,
+        "coordenadas": [
+          340,
+          320,
+          388,
+          320,
+          388,
+          352,
+          340,
+          352
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det7_paragraph_conf0.51.jpg",
+    "texto_completo": "Código Hash: sHCbjpRbMGuMTO2rpSgik66Yl+l=",
+    "precision_promedio": 0.6471008066009026,
+    "num_detecciones": 1,
+    "detecciones": [
+      {
+        "texto": "Código Hash: sHCbjpRbMGuMTO2rpSgik66Yl+l=",
+        "confianza": 0.6471008066009026,
+        "coordenadas": [
+          14,
+          25,
+          844,
+          25,
+          844,
+          80,
+          14,
+          80
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det8_paragraph_conf0.46.jpg",
+    "texto_completo": "Observaciones de SUNAT: Autorizado a ser emisor electrónico mediante R.I. SUNAT NP0340050004781",
+    "precision_promedio": 0.7748118476593238,
+    "num_detecciones": 2,
+    "detecciones": [
+      {
+        "texto": "Observaciones de SUNAT:",
+        "confianza": 0.9517296295206853,
+        "coordenadas": [
+          14,
+          0,
+          393,
+          0,
+          393,
+          39,
+          14,
+          39
+        ]
+      },
+      {
+        "texto": "Autorizado a ser emisor electrónico mediante R.I. SUNAT NP0340050004781",
+        "confianza": 0.5978940657979622,
+        "coordenadas": [
+          5,
+          150,
+          1004,
+          150,
+          1004,
+          187,
+          5,
+          187
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det9_table_conf0.46.jpg",
+    "texto_completo": "(afecto al IGV) A AR16372234 NIU 1.00 118.56 139.90 0.001 118.56 0 AZUL-0O.0 Op. Gravada SI 118.56 IG.V (18%) SI 21.34 Op. Inafecta SI 0.00 Op. Exonerada SI 0.00 Op. Exportacion SI 0.00 Importe Total SI 139.90",
+    "precision_promedio": 0.8186405656309732,
+    "num_detecciones": 27,
+    "detecciones": [
+      {
+        "texto": "(afecto al IGV)",
+        "confianza": 0.647808285644201,
+        "coordenadas": [
+          1045,
+          1,
+          1243,
+          1,
+          1243,
+          37,
+          1045,
+          37
+        ]
+      },
+      {
+        "texto": "A AR16372234",
+        "confianza": 0.6823555849786409,
+        "coordenadas": [
+          0,
+          48,
+          200,
+          48,
+          200,
+          80,
+          0,
+          80
+        ]
+      },
+      {
+        "texto": "NIU",
+        "confianza": 0.9966896082924904,
+        "coordenadas": [
+          258,
+          48,
+          312,
+          48,
+          312,
+          80,
+          258,
+          80
+        ]
+      },
+      {
+        "texto": "1.00",
+        "confianza": 0.5580642223358154,
+        "coordenadas": [
+          480,
+          50,
+          540,
+          50,
+          540,
+          80,
+          480,
+          80
+        ]
+      },
+      {
+        "texto": "118.56",
+        "confianza": 0.9986927141541068,
+        "coordenadas": [
+          694,
+          48,
+          790,
+          48,
+          790,
+          80,
+          694,
+          80
+        ]
+      },
+      {
+        "texto": "139.90",
+        "confianza": 0.9112918172561514,
+        "coordenadas": [
+          944,
+          48,
+          1040,
+          48,
+          1040,
+          80,
+          944,
+          80
+        ]
+      },
+      {
+        "texto": "0.001",
+        "confianza": 0.3217014068341045,
+        "coordenadas": [
+          1184,
+          50,
+          1248,
+          50,
+          1248,
+          80,
+          1184,
+          80
+        ]
+      },
+      {
+        "texto": "118.56",
+        "confianza": 0.99945958572922,
+        "coordenadas": [
+          1402,
+          48,
+          1498,
+          48,
+          1498,
+          80,
+          1402,
+          80
+        ]
+      },
+      {
+        "texto": "0 AZUL-0O.0",
+        "confianza": 0.3081494283374669,
+        "coordenadas": [
+          0,
+          83,
+          178,
+          83,
+          178,
+          115,
+          0,
+          115
+        ]
+      },
+      {
+        "texto": "Op. Gravada",
+        "confianza": 0.8597335805866761,
+        "coordenadas": [
+          283,
+          142,
+          462,
+          142,
+          462,
+          181,
+          283,
+          181
+        ]
+      },
+      {
+        "texto": "SI",
+        "confianza": 0.9394430995796498,
+        "coordenadas": [
+          984,
+          144,
+          1018,
+          144,
+          1018,
+          174,
+          984,
+          174
+        ]
+      },
+      {
+        "texto": "118.56",
+        "confianza": 0.9994736008319239,
+        "coordenadas": [
+          1402,
+          144,
+          1498,
+          144,
+          1498,
+          176,
+          1402,
+          176
+        ]
+      },
+      {
+        "texto": "IG.V (18%)",
+        "confianza": 0.6418724846493664,
+        "coordenadas": [
+          281,
+          197,
+          441,
+          197,
+          441,
+          235,
+          281,
+          235
+        ]
+      },
+      {
+        "texto": "SI",
+        "confianza": 0.9363580136674959,
+        "coordenadas": [
+          984,
+          198,
+          1018,
+          198,
+          1018,
+          228,
+          984,
+          228
+        ]
+      },
+      {
+        "texto": "21.34",
+        "confianza": 0.5922576042998435,
+        "coordenadas": [
+          1418,
+          198,
+          1498,
+          198,
+          1498,
+          230,
+          1418,
+          230
+        ]
+      },
+      {
+        "texto": "Op. Inafecta",
+        "confianza": 0.9683915671967861,
+        "coordenadas": [
+          283,
+          251,
+          457,
+          251,
+          457,
+          289,
+          283,
+          289
+        ]
+      },
+      {
+        "texto": "SI",
+        "confianza": 0.9512904712117526,
+        "coordenadas": [
+          983,
+          249,
+          1019,
+          249,
+          1019,
+          285,
+          983,
+          285
+        ]
+      },
+      {
+        "texto": "0.00",
+        "confianza": 0.9919911399829312,
+        "coordenadas": [
+          1434,
+          252,
+          1498,
+          252,
+          1498,
+          284,
+          1434,
+          284
+        ]
+      },
+      {
+        "texto": "Op. Exonerada",
+        "confianza": 0.7407528287222724,
+        "coordenadas": [
+          283,
+          305,
+          495,
+          305,
+          495,
+          343,
+          283,
+          343
+        ]
+      },
+      {
+        "texto": "SI",
+        "confianza": 0.9440656457110969,
+        "coordenadas": [
+          983,
+          303,
+          1019,
+          303,
+          1019,
+          339,
+          983,
+          339
+        ]
+      },
+      {
+        "texto": "0.00",
+        "confianza": 0.9972932894630697,
+        "coordenadas": [
+          1434,
+          306,
+          1498,
+          306,
+          1498,
+          338,
+          1434,
+          338
+        ]
+      },
+      {
+        "texto": "Op. Exportacion",
+        "confianza": 0.7145859204040419,
+        "coordenadas": [
+          283,
+          358,
+          513,
+          358,
+          513,
+          399,
+          283,
+          399
+        ]
+      },
+      {
+        "texto": "SI",
+        "confianza": 0.9278472153674401,
+        "coordenadas": [
+          984,
+          360,
+          1018,
+          360,
+          1018,
+          392,
+          984,
+          392
+        ]
+      },
+      {
+        "texto": "0.00",
+        "confianza": 0.7016995604203093,
+        "coordenadas": [
+          1434,
+          362,
+          1498,
+          362,
+          1498,
+          392,
+          1434,
+          392
+        ]
+      },
+      {
+        "texto": "Importe Total",
+        "confianza": 0.8451620730050293,
+        "coordenadas": [
+          281,
+          467,
+          475,
+          467,
+          475,
+          507,
+          281,
+          507
+        ]
+      },
+      {
+        "texto": "SI",
+        "confianza": 0.9273096722487286,
+        "coordenadas": [
+          984,
+          468,
+          1018,
+          468,
+          1018,
+          500,
+          984,
+          500
+        ]
+      },
+      {
+        "texto": "139.90",
+        "confianza": 0.9995548511256696,
+        "coordenadas": [
+          1402,
+          468,
+          1498,
+          468,
+          1498,
+          500,
+          1402,
+          500
+        ]
+      }
+    ]
+  }
+]

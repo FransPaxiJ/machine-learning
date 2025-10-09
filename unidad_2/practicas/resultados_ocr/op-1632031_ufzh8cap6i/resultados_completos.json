@@ -1,0 +1,1911 @@
+[
+  {
+    "archivo": "pag1_det10_paragraph_conf0.38.jpg",
+    "texto_completo": "HostingLabs",
+    "precision_promedio": 0.9999218220650852,
+    "num_detecciones": 1,
+    "detecciones": [
+      {
+        "texto": "HostingLabs",
+        "confianza": 0.9999218220650852,
+        "coordenadas": [
+          7,
+          3,
+          323,
+          3,
+          323,
+          71,
+          7,
+          71
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det11_logo_conf0.34.jpg",
+    "texto_completo": "HOSTINGLABS HOSTING & CLOUD SERVICES",
+    "precision_promedio": 0.9968727334779715,
+    "num_detecciones": 3,
+    "detecciones": [
+      {
+        "texto": "HOSTINGLABS",
+        "confianza": 0.9926298305431495,
+        "coordenadas": [
+          209,
+          31,
+          742,
+          31,
+          742,
+          152,
+          209,
+          152
+        ]
+      },
+      {
+        "texto": "HOSTING &",
+        "confianza": 0.9991164880161694,
+        "coordenadas": [
+          602,
+          148,
+          730,
+          148,
+          730,
+          180,
+          602,
+          180
+        ]
+      },
+      {
+        "texto": "CLOUD SERVICES",
+        "confianza": 0.9988718818745955,
+        "coordenadas": [
+          534,
+          178,
+          734,
+          178,
+          734,
+          210,
+          534,
+          210
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det12_paragraph_conf0.27.jpg",
+    "texto_completo": "HOSTINGLABS HOSTING & CLOUD SERVICES",
+    "precision_promedio": 0.8853037101513869,
+    "num_detecciones": 3,
+    "detecciones": [
+      {
+        "texto": "HOSTINGLABS",
+        "confianza": 0.9974566314866521,
+        "coordenadas": [
+          209,
+          30,
+          740,
+          30,
+          740,
+          147,
+          209,
+          147
+        ]
+      },
+      {
+        "texto": "HOSTING &",
+        "confianza": 0.6806251585037584,
+        "coordenadas": [
+          598,
+          144,
+          726,
+          144,
+          726,
+          176,
+          598,
+          176
+        ]
+      },
+      {
+        "texto": "CLOUD SERVICES",
+        "confianza": 0.9778293404637498,
+        "coordenadas": [
+          530,
+          174,
+          730,
+          174,
+          730,
+          206,
+          530,
+          206
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det1_vendor_info_conf0.60.jpg",
+    "texto_completo": "HostingLabs Perú +51 (1) 637 3990 Colombia +57 (601) 7563969 México +52 (55) 41725957 Correo-e facturacionahostinglabs.net",
+    "precision_promedio": 0.944956791873496,
+    "num_detecciones": 9,
+    "detecciones": [
+      {
+        "texto": "HostingLabs",
+        "confianza": 0.9999106791352449,
+        "coordenadas": [
+          405,
+          6,
+          724,
+          6,
+          724,
+          79,
+          405,
+          79
+        ]
+      },
+      {
+        "texto": "Perú",
+        "confianza": 0.9999838471412659,
+        "coordenadas": [
+          315,
+          125,
+          403,
+          125,
+          403,
+          165,
+          315,
+          165
+        ]
+      },
+      {
+        "texto": "+51 (1) 637 3990",
+        "confianza": 0.9673857070430759,
+        "coordenadas": [
+          427,
+          123,
+          719,
+          123,
+          719,
+          167,
+          427,
+          167
+        ]
+      },
+      {
+        "texto": "Colombia",
+        "confianza": 0.9999740374017149,
+        "coordenadas": [
+          189,
+          171,
+          367,
+          171,
+          367,
+          213,
+          189,
+          213
+        ]
+      },
+      {
+        "texto": "+57 (601) 7563969",
+        "confianza": 0.8975413117490705,
+        "coordenadas": [
+          391,
+          170,
+          716,
+          170,
+          716,
+          215,
+          391,
+          215
+        ]
+      },
+      {
+        "texto": "México",
+        "confianza": 0.9999919212725472,
+        "coordenadas": [
+          239,
+          214,
+          374,
+          214,
+          374,
+          262,
+          239,
+          262
+        ]
+      },
+      {
+        "texto": "+52 (55) 41725957",
+        "confianza": 0.8180985470310531,
+        "coordenadas": [
+          395,
+          217,
+          717,
+          217,
+          717,
+          261,
+          395,
+          261
+        ]
+      },
+      {
+        "texto": "Correo-e",
+        "confianza": 0.8947293094386704,
+        "coordenadas": [
+          33,
+          312,
+          206,
+          312,
+          206,
+          361,
+          33,
+          361
+        ]
+      },
+      {
+        "texto": "facturacionahostinglabs.net",
+        "confianza": 0.9269957666488213,
+        "coordenadas": [
+          222,
+          311,
+          719,
+          311,
+          719,
+          361,
+          222,
+          361
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det2_total_price_conf0.58.jpg",
+    "texto_completo": "Transacciones Fecha Transacción MétodolGateway ID Transacción Total No se encontraron transacciones relacionadas Balance Restante S/ 472.00",
+    "precision_promedio": 0.8328091741065105,
+    "num_detecciones": 8,
+    "detecciones": [
+      {
+        "texto": "Transacciones",
+        "confianza": 0.7344856388390846,
+        "coordenadas": [
+          12,
+          0,
+          340,
+          0,
+          340,
+          30,
+          12,
+          30
+        ]
+      },
+      {
+        "texto": "Fecha Transacción",
+        "confianza": 0.9954187267780203,
+        "coordenadas": [
+          97,
+          113,
+          425,
+          113,
+          425,
+          155,
+          97,
+          155
+        ]
+      },
+      {
+        "texto": "MétodolGateway",
+        "confianza": 0.8743518789136079,
+        "coordenadas": [
+          637,
+          106,
+          946,
+          106,
+          946,
+          160,
+          637,
+          160
+        ]
+      },
+      {
+        "texto": "ID Transacción",
+        "confianza": 0.910034859220173,
+        "coordenadas": [
+          1243,
+          113,
+          1505,
+          113,
+          1505,
+          155,
+          1243,
+          155
+        ]
+      },
+      {
+        "texto": "Total",
+        "confianza": 0.9999510061165513,
+        "coordenadas": [
+          1859,
+          115,
+          1953,
+          115,
+          1953,
+          153,
+          1859,
+          153
+        ]
+      },
+      {
+        "texto": "No se encontraron transacciones relacionadas",
+        "confianza": 0.7144475028772421,
+        "coordenadas": [
+          659,
+          179,
+          1457,
+          179,
+          1457,
+          223,
+          659,
+          223
+        ]
+      },
+      {
+        "texto": "Balance Restante",
+        "confianza": 0.5075084176522482,
+        "coordenadas": [
+          1379,
+          247,
+          1681,
+          247,
+          1681,
+          288,
+          1379,
+          288
+        ]
+      },
+      {
+        "texto": "S/ 472.00",
+        "confianza": 0.9262753624551561,
+        "coordenadas": [
+          1819,
+          249,
+          1991,
+          249,
+          1991,
+          288,
+          1819,
+          288
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det3_total_price_conf0.56.jpg",
+    "texto_completo": "Sub Total S/ 400.00 18.00% IGV S/ 72.00 Crédito S/ 0.00 Total S/ 472.00",
+    "precision_promedio": 0.8883561240776829,
+    "num_detecciones": 8,
+    "detecciones": [
+      {
+        "texto": "Sub Total",
+        "confianza": 0.7879648261083403,
+        "coordenadas": [
+          49,
+          19,
+          221,
+          19,
+          221,
+          59,
+          49,
+          59
+        ]
+      },
+      {
+        "texto": "S/ 400.00",
+        "confianza": 0.9229376490541967,
+        "coordenadas": [
+          353,
+          19,
+          531,
+          19,
+          531,
+          59,
+          353,
+          59
+        ]
+      },
+      {
+        "texto": "18.00% IGV",
+        "confianza": 0.898841448951047,
+        "coordenadas": [
+          15,
+          85,
+          219,
+          85,
+          219,
+          127,
+          15,
+          127
+        ]
+      },
+      {
+        "texto": "S/ 72.00",
+        "confianza": 0.8925843751403014,
+        "coordenadas": [
+          367,
+          85,
+          517,
+          85,
+          517,
+          127,
+          367,
+          127
+        ]
+      },
+      {
+        "texto": "Crédito",
+        "confianza": 0.8461065663356004,
+        "coordenadas": [
+          83,
+          151,
+          219,
+          151,
+          219,
+          195,
+          83,
+          195
+        ]
+      },
+      {
+        "texto": "S/ 0.00",
+        "confianza": 0.9858837600355949,
+        "coordenadas": [
+          377,
+          155,
+          509,
+          155,
+          509,
+          195,
+          377,
+          195
+        ]
+      },
+      {
+        "texto": "Total",
+        "confianza": 0.9999719578337024,
+        "coordenadas": [
+          125,
+          223,
+          219,
+          223,
+          219,
+          263,
+          125,
+          263
+        ]
+      },
+      {
+        "texto": "S/ 472.00",
+        "confianza": 0.7725584091626811,
+        "coordenadas": [
+          355,
+          223,
+          529,
+          223,
+          529,
+          263,
+          355,
+          263
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det4_total_price_conf0.54.jpg",
+    "texto_completo": "Total S/ 472.00 Transacciones Fecha Transacción MétodolGateway ID Transacción Total No se encontraron transacciones relacionadas Balance Restante S/ 472.00",
+    "precision_promedio": 0.920769272241427,
+    "num_detecciones": 10,
+    "detecciones": [
+      {
+        "texto": "Total",
+        "confianza": 0.9999739303845567,
+        "coordenadas": [
+          1586,
+          14,
+          1683,
+          14,
+          1683,
+          54,
+          1586,
+          54
+        ]
+      },
+      {
+        "texto": "S/ 472.00",
+        "confianza": 0.9548008741463875,
+        "coordenadas": [
+          1817,
+          13,
+          1991,
+          13,
+          1991,
+          53,
+          1817,
+          53
+        ]
+      },
+      {
+        "texto": "Transacciones",
+        "confianza": 0.9999928253716692,
+        "coordenadas": [
+          4,
+          198,
+          342,
+          198,
+          342,
+          250,
+          4,
+          250
+        ]
+      },
+      {
+        "texto": "Fecha Transacción",
+        "confianza": 0.8688520985132602,
+        "coordenadas": [
+          97,
+          328,
+          425,
+          328,
+          425,
+          371,
+          97,
+          371
+        ]
+      },
+      {
+        "texto": "MétodolGateway",
+        "confianza": 0.9085308961638788,
+        "coordenadas": [
+          639,
+          322,
+          946,
+          322,
+          946,
+          376,
+          639,
+          376
+        ]
+      },
+      {
+        "texto": "ID Transacción",
+        "confianza": 0.9994504716206686,
+        "coordenadas": [
+          1243,
+          327,
+          1507,
+          327,
+          1507,
+          371,
+          1243,
+          371
+        ]
+      },
+      {
+        "texto": "Total",
+        "confianza": 0.8498825620542391,
+        "coordenadas": [
+          1859,
+          331,
+          1955,
+          331,
+          1955,
+          369,
+          1859,
+          369
+        ]
+      },
+      {
+        "texto": "No se encontraron transacciones relacionadas",
+        "confianza": 0.9462246020043815,
+        "coordenadas": [
+          659,
+          395,
+          1459,
+          395,
+          1459,
+          439,
+          659,
+          439
+        ]
+      },
+      {
+        "texto": "Balance Restante",
+        "confianza": 0.7115333203474997,
+        "coordenadas": [
+          1381,
+          463,
+          1683,
+          463,
+          1683,
+          503,
+          1381,
+          503
+        ]
+      },
+      {
+        "texto": "S/ 472.00",
+        "confianza": 0.9684511418077295,
+        "coordenadas": [
+          1819,
+          461,
+          1991,
+          461,
+          1991,
+          503,
+          1819,
+          503
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det5_table_conf0.51.jpg",
+    "texto_completo": "Descripción Total Plan Empresas spotmarketsac.com (18/12/2024 17/12/2025) S/ 400.00 Certificado de Seguridad SSLITLS: cPanel SSL Copias de Respaldo: EGratis Interdiario (Solo hasta 1OGB) IP dedicada: No Renovación de Dominio spotmarketsac.com 1 Año(s) (18/12/2024 17/12/2025) S/ 0.00 Sub Total S/ 400.00",
+    "precision_promedio": 0.8695712167265469,
+    "num_detecciones": 18,
+    "detecciones": [
+      {
+        "texto": "Descripción",
+        "confianza": 0.7427441260548279,
+        "coordenadas": [
+          750,
+          50,
+          964,
+          50,
+          964,
+          100,
+          750,
+          100
+        ]
+      },
+      {
+        "texto": "Total",
+        "confianza": 0.9999750499402428,
+        "coordenadas": [
+          1869,
+          51,
+          1967,
+          51,
+          1967,
+          93,
+          1869,
+          93
+        ]
+      },
+      {
+        "texto": "Plan Empresas",
+        "confianza": 0.9804175505017518,
+        "coordenadas": [
+          20,
+          117,
+          279,
+          117,
+          279,
+          171,
+          20,
+          171
+        ]
+      },
+      {
+        "texto": "spotmarketsac.com (18/12/2024",
+        "confianza": 0.7937889709846392,
+        "coordenadas": [
+          305,
+          116,
+          872,
+          116,
+          872,
+          168,
+          305,
+          168
+        ]
+      },
+      {
+        "texto": "17/12/2025)",
+        "confianza": 0.999993817799473,
+        "coordenadas": [
+          901,
+          119,
+          1111,
+          119,
+          1111,
+          161,
+          901,
+          161
+        ]
+      },
+      {
+        "texto": "S/ 400.00",
+        "confianza": 0.861279534378899,
+        "coordenadas": [
+          1827,
+          119,
+          2007,
+          119,
+          2007,
+          161,
+          1827,
+          161
+        ]
+      },
+      {
+        "texto": "Certificado de Seguridad SSLITLS: cPanel SSL",
+        "confianza": 0.9001610917480791,
+        "coordenadas": [
+          18,
+          164,
+          804,
+          164,
+          804,
+          213,
+          18,
+          213
+        ]
+      },
+      {
+        "texto": "Copias de Respaldo: EGratis",
+        "confianza": 0.6892816481617062,
+        "coordenadas": [
+          18,
+          210,
+          506,
+          210,
+          506,
+          263,
+          18,
+          263
+        ]
+      },
+      {
+        "texto": "Interdiario (Solo hasta 1OGB)",
+        "confianza": 0.6421391758544301,
+        "coordenadas": [
+          527,
+          213,
+          1023,
+          213,
+          1023,
+          255,
+          527,
+          255
+        ]
+      },
+      {
+        "texto": "IP dedicada: No",
+        "confianza": 0.8579411360506951,
+        "coordenadas": [
+          21,
+          259,
+          299,
+          259,
+          299,
+          301,
+          21,
+          301
+        ]
+      },
+      {
+        "texto": "Renovación de Dominio",
+        "confianza": 0.9970987762479695,
+        "coordenadas": [
+          21,
+          374,
+          442,
+          374,
+          442,
+          417,
+          21,
+          417
+        ]
+      },
+      {
+        "texto": "spotmarketsac.com",
+        "confianza": 0.9865851384715842,
+        "coordenadas": [
+          471,
+          373,
+          818,
+          373,
+          818,
+          422,
+          471,
+          422
+        ]
+      },
+      {
+        "texto": "1",
+        "confianza": 0.9999279988851981,
+        "coordenadas": [
+          855,
+          383,
+          869,
+          383,
+          869,
+          411,
+          855,
+          411
+        ]
+      },
+      {
+        "texto": "Año(s) (18/12/2024",
+        "confianza": 0.8447220355075353,
+        "coordenadas": [
+          875,
+          371,
+          1210,
+          371,
+          1210,
+          419,
+          875,
+          419
+        ]
+      },
+      {
+        "texto": "17/12/2025)",
+        "confianza": 0.9999149634288786,
+        "coordenadas": [
+          1237,
+          370,
+          1450,
+          370,
+          1450,
+          418,
+          1237,
+          418
+        ]
+      },
+      {
+        "texto": "S/ 0.00",
+        "confianza": 0.5770641046483276,
+        "coordenadas": [
+          1851,
+          375,
+          1983,
+          375,
+          1983,
+          415,
+          1851,
+          415
+        ]
+      },
+      {
+        "texto": "Sub Total",
+        "confianza": 0.7978262947674941,
+        "coordenadas": [
+          1523,
+          489,
+          1695,
+          489,
+          1695,
+          532,
+          1523,
+          532
+        ]
+      },
+      {
+        "texto": "S/ 400.00",
+        "confianza": 0.9814204876461116,
+        "coordenadas": [
+          1829,
+          491,
+          2007,
+          491,
+          2007,
+          531,
+          1829,
+          531
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det6_paragraph_conf0.48.jpg",
+    "texto_completo": "HOSTINGLABS HOSTING &",
+    "precision_promedio": 0.9961209514942388,
+    "num_detecciones": 2,
+    "detecciones": [
+      {
+        "texto": "HOSTINGLABS",
+        "confianza": 0.9935842466234412,
+        "coordenadas": [
+          205,
+          19,
+          740,
+          19,
+          740,
+          140,
+          205,
+          140
+        ]
+      },
+      {
+        "texto": "HOSTING &",
+        "confianza": 0.9986576563650363,
+        "coordenadas": [
+          598,
+          136,
+          726,
+          136,
+          726,
+          163,
+          598,
+          163
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det7_invoice_detail_conf0.48.jpg",
+    "texto_completo": "Atención SPOT MARKET SOCIEDAD ANONIMA CERRADA ATN: Angel Rosendo Condori Coaquira JR. MANUEL IRRIBARREN NRO. 1280 DPTO. B501 (EDIFICIO 16) SURQUILLO, LIMA; 15036 Peru",
+    "precision_promedio": 0.8065645196652059,
+    "num_detecciones": 6,
+    "detecciones": [
+      {
+        "texto": "Atención",
+        "confianza": 0.8410740244334581,
+        "coordenadas": [
+          13,
+          0,
+          191,
+          0,
+          191,
+          43,
+          13,
+          43
+        ]
+      },
+      {
+        "texto": "SPOT MARKET SOCIEDAD ANONIMA CERRADA",
+        "confianza": 0.8526237660213232,
+        "coordenadas": [
+          11,
+          51,
+          833,
+          51,
+          833,
+          93,
+          11,
+          93
+        ]
+      },
+      {
+        "texto": "ATN: Angel Rosendo Condori Coaquira",
+        "confianza": 0.9884195213174128,
+        "coordenadas": [
+          14,
+          97,
+          690,
+          97,
+          690,
+          147,
+          14,
+          147
+        ]
+      },
+      {
+        "texto": "JR. MANUEL IRRIBARREN NRO. 1280 DPTO. B501 (EDIFICIO 16)",
+        "confianza": 0.5946163123562874,
+        "coordenadas": [
+          13,
+          143,
+          1109,
+          143,
+          1109,
+          187,
+          13,
+          187
+        ]
+      },
+      {
+        "texto": "SURQUILLO, LIMA; 15036",
+        "confianza": 0.5626617789083782,
+        "coordenadas": [
+          9,
+          188,
+          460,
+          188,
+          460,
+          236,
+          9,
+          236
+        ]
+      },
+      {
+        "texto": "Peru",
+        "confianza": 0.9999917149543762,
+        "coordenadas": [
+          14,
+          242,
+          99,
+          242,
+          99,
+          281,
+          14,
+          281
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det8_total_price_conf0.45.jpg",
+    "texto_completo": "Fecha Transacción Método/Gateway ID Transacción Total No se encontraron transacciones relacionadas Balance Restante S/ 472.00",
+    "precision_promedio": 0.9706785360182638,
+    "num_detecciones": 7,
+    "detecciones": [
+      {
+        "texto": "Fecha Transacción",
+        "confianza": 0.9987719567629418,
+        "coordenadas": [
+          103,
+          37,
+          431,
+          37,
+          431,
+          79,
+          103,
+          79
+        ]
+      },
+      {
+        "texto": "Método/Gateway",
+        "confianza": 0.9758539146112298,
+        "coordenadas": [
+          645,
+          31,
+          952,
+          31,
+          952,
+          86,
+          645,
+          86
+        ]
+      },
+      {
+        "texto": "ID Transacción",
+        "confianza": 0.9982101682081282,
+        "coordenadas": [
+          1249,
+          37,
+          1513,
+          37,
+          1513,
+          79,
+          1249,
+          79
+        ]
+      },
+      {
+        "texto": "Total",
+        "confianza": 0.9999651871826817,
+        "coordenadas": [
+          1864,
+          38,
+          1961,
+          38,
+          1961,
+          80,
+          1864,
+          80
+        ]
+      },
+      {
+        "texto": "No se encontraron transacciones relacionadas",
+        "confianza": 0.9438805641282716,
+        "coordenadas": [
+          665,
+          105,
+          1465,
+          105,
+          1465,
+          149,
+          665,
+          149
+        ]
+      },
+      {
+        "texto": "Balance Restante",
+        "confianza": 0.905637167369123,
+        "coordenadas": [
+          1387,
+          173,
+          1689,
+          173,
+          1689,
+          213,
+          1387,
+          213
+        ]
+      },
+      {
+        "texto": "S/ 472.00",
+        "confianza": 0.9724307938654714,
+        "coordenadas": [
+          1825,
+          172,
+          1997,
+          172,
+          1997,
+          213,
+          1825,
+          213
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag1_det9_logo_conf0.40.jpg",
+    "texto_completo": "NO PAGA",
+    "precision_promedio": 0.9872768729680551,
+    "num_detecciones": 2,
+    "detecciones": [
+      {
+        "texto": "NO",
+        "confianza": 0.9814040228105908,
+        "coordenadas": [
+          268,
+          33,
+          389,
+          103,
+          344,
+          178,
+          223,
+          109
+        ]
+      },
+      {
+        "texto": "PAGA",
+        "confianza": 0.9931497231255194,
+        "coordenadas": [
+          389,
+          109,
+          559,
+          234,
+          506,
+          305,
+          336,
+          180
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag2_det10_invoice_detail_conf0.36.jpg",
+    "texto_completo": "s/ plin Yape",
+    "precision_promedio": 0.730989746797455,
+    "num_detecciones": 3,
+    "detecciones": [
+      {
+        "texto": "s/",
+        "confianza": 0.5696124808441777,
+        "coordenadas": [
+          113,
+          67,
+          167,
+          67,
+          167,
+          111,
+          113,
+          111
+        ]
+      },
+      {
+        "texto": "plin",
+        "confianza": 0.9998801350593567,
+        "coordenadas": [
+          73,
+          303,
+          211,
+          303,
+          211,
+          391,
+          73,
+          391
+        ]
+      },
+      {
+        "texto": "Yape",
+        "confianza": 0.6234766244888306,
+        "coordenadas": [
+          43,
+          134,
+          233,
+          104,
+          245,
+          229,
+          54,
+          259
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag2_det11_paragraph_conf0.33.jpg",
+    "texto_completo": "Ponte en contacto con nosotros Llámanos al +51 637 3990",
+    "precision_promedio": 0.895171951671,
+    "num_detecciones": 3,
+    "detecciones": [
+      {
+        "texto": "Ponte en contacto con nosotros",
+        "confianza": 0.8043492283385354,
+        "coordenadas": [
+          34,
+          30,
+          870,
+          30,
+          870,
+          84,
+          34,
+          84
+        ]
+      },
+      {
+        "texto": "Llámanos al",
+        "confianza": 0.9992561033277891,
+        "coordenadas": [
+          32,
+          85,
+          347,
+          85,
+          347,
+          152,
+          32,
+          152
+        ]
+      },
+      {
+        "texto": "+51 637 3990",
+        "confianza": 0.8819105233466754,
+        "coordenadas": [
+          362,
+          90,
+          712,
+          90,
+          712,
+          146,
+          362,
+          146
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag2_det12_customer_info_conf0.31.jpg",
+    "texto_completo": "2 Banco de la Nación Detracciones (Soles) 00-005-311764",
+    "precision_promedio": 0.8608560494522577,
+    "num_detecciones": 4,
+    "detecciones": [
+      {
+        "texto": "2",
+        "confianza": 0.9403882546163022,
+        "coordenadas": [
+          32,
+          14,
+          170,
+          14,
+          170,
+          138,
+          32,
+          138
+        ]
+      },
+      {
+        "texto": "Banco de la Nación",
+        "confianza": 0.6706310804618731,
+        "coordenadas": [
+          189,
+          29,
+          709,
+          29,
+          709,
+          95,
+          189,
+          95
+        ]
+      },
+      {
+        "texto": "Detracciones (Soles)",
+        "confianza": 0.8324413644954582,
+        "coordenadas": [
+          27,
+          252,
+          386,
+          252,
+          386,
+          300,
+          27,
+          300
+        ]
+      },
+      {
+        "texto": "00-005-311764",
+        "confianza": 0.9999634982353973,
+        "coordenadas": [
+          407,
+          254,
+          687,
+          254,
+          687,
+          296,
+          407,
+          296
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag2_det13_logo_conf0.30.jpg",
+    "texto_completo": "2",
+    "precision_promedio": 0.9917500409872879,
+    "num_detecciones": 1,
+    "detecciones": [
+      {
+        "texto": "2",
+        "confianza": 0.9917500409872879,
+        "coordenadas": [
+          0,
+          2,
+          142,
+          2,
+          142,
+          129,
+          0,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag2_det14_paragraph_conf0.27.jpg",
+    "texto_completo": "+51 955 198 293",
+    "precision_promedio": 0.760195823871177,
+    "num_detecciones": 1,
+    "detecciones": [
+      {
+        "texto": "+51 955 198 293",
+        "confianza": 0.760195823871177,
+        "coordenadas": [
+          51,
+          29,
+          343,
+          29,
+          343,
+          69,
+          51,
+          69
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag2_det15_paragraph_conf0.27.jpg",
+    "texto_completo": "Ponte en contacto con nosotros Llámanos al +51 637 3990 Av. Petit Thouars 1775 Of 204 Lince, 15046",
+    "precision_promedio": 0.8837144899329246,
+    "num_detecciones": 5,
+    "detecciones": [
+      {
+        "texto": "Ponte en contacto con nosotros",
+        "confianza": 0.873257021153,
+        "coordenadas": [
+          30,
+          32,
+          866,
+          32,
+          866,
+          88,
+          30,
+          88
+        ]
+      },
+      {
+        "texto": "Llámanos al",
+        "confianza": 0.999490906031211,
+        "coordenadas": [
+          27,
+          91,
+          341,
+          91,
+          341,
+          151,
+          27,
+          151
+        ]
+      },
+      {
+        "texto": "+51 637 3990",
+        "confianza": 0.7923760857785728,
+        "coordenadas": [
+          358,
+          94,
+          706,
+          94,
+          706,
+          150,
+          358,
+          150
+        ]
+      },
+      {
+        "texto": "Av. Petit Thouars 1775 Of 204",
+        "confianza": 0.973860859361336,
+        "coordenadas": [
+          31,
+          243,
+          611,
+          243,
+          611,
+          287,
+          31,
+          287
+        ]
+      },
+      {
+        "texto": "Lince, 15046",
+        "confianza": 0.7795875773405032,
+        "coordenadas": [
+          26,
+          296,
+          278,
+          296,
+          278,
+          346,
+          26,
+          346
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag2_det1_vendor_info_conf0.76.jpg",
+    "texto_completo": "CC Soles 193-2303685-0-44 CCI 002-193-002303685044-16 Código Agente 12670",
+    "precision_promedio": 0.9446026706480173,
+    "num_detecciones": 6,
+    "detecciones": [
+      {
+        "texto": "CC Soles",
+        "confianza": 0.9941110227764745,
+        "coordenadas": [
+          28,
+          21,
+          196,
+          21,
+          196,
+          69,
+          28,
+          69
+        ]
+      },
+      {
+        "texto": "193-2303685-0-44",
+        "confianza": 0.948865360534551,
+        "coordenadas": [
+          215,
+          23,
+          560,
+          23,
+          560,
+          66,
+          215,
+          66
+        ]
+      },
+      {
+        "texto": "CCI",
+        "confianza": 0.9984191656112671,
+        "coordenadas": [
+          29,
+          83,
+          105,
+          83,
+          105,
+          125,
+          29,
+          125
+        ]
+      },
+      {
+        "texto": "002-193-002303685044-16",
+        "confianza": 0.7869949458035752,
+        "coordenadas": [
+          125,
+          83,
+          627,
+          83,
+          627,
+          125,
+          125,
+          125
+        ]
+      },
+      {
+        "texto": "Código Agente",
+        "confianza": 0.939285049287477,
+        "coordenadas": [
+          26,
+          136,
+          298,
+          136,
+          298,
+          192,
+          26,
+          192
+        ]
+      },
+      {
+        "texto": "12670",
+        "confianza": 0.9999404798747591,
+        "coordenadas": [
+          319,
+          141,
+          431,
+          141,
+          431,
+          183,
+          319,
+          183
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag2_det2_paragraph_conf0.73.jpg",
+    "texto_completo": "INSTRUCCIONES DE PAGO",
+    "precision_promedio": 0.9941938645891377,
+    "num_detecciones": 1,
+    "detecciones": [
+      {
+        "texto": "INSTRUCCIONES DE PAGO",
+        "confianza": 0.9941938645891377,
+        "coordenadas": [
+          13,
+          31,
+          1023,
+          31,
+          1023,
+          143,
+          13,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag2_det3_logo_conf0.69.jpg",
+    "texto_completo": "",
+    "precision_promedio": 0.0,
+    "num_detecciones": 0,
+    "detecciones": []
+  },
+  {
+    "archivo": "pag2_det4_vendor_info_conf0.60.jpg",
+    "texto_completo": "CC Soles 084-3001952424 CCI 003-084-003001952424-15 Código Agente 0764701",
+    "precision_promedio": 0.9738925007390368,
+    "num_detecciones": 6,
+    "detecciones": [
+      {
+        "texto": "CC Soles",
+        "confianza": 0.9921937032256105,
+        "coordenadas": [
+          30,
+          37,
+          199,
+          37,
+          199,
+          85,
+          30,
+          85
+        ]
+      },
+      {
+        "texto": "084-3001952424",
+        "confianza": 0.8795632852293169,
+        "coordenadas": [
+          217,
+          39,
+          529,
+          39,
+          529,
+          83,
+          217,
+          83
+        ]
+      },
+      {
+        "texto": "CCI",
+        "confianza": 0.9985554234715587,
+        "coordenadas": [
+          31,
+          99,
+          105,
+          99,
+          105,
+          141,
+          31,
+          141
+        ]
+      },
+      {
+        "texto": "003-084-003001952424-15",
+        "confianza": 0.9781075866802771,
+        "coordenadas": [
+          127,
+          99,
+          629,
+          99,
+          629,
+          141,
+          127,
+          141
+        ]
+      },
+      {
+        "texto": "Código Agente",
+        "confianza": 0.9990405040431269,
+        "coordenadas": [
+          28,
+          151,
+          300,
+          151,
+          300,
+          208,
+          28,
+          208
+        ]
+      },
+      {
+        "texto": "0764701",
+        "confianza": 0.9958945017843303,
+        "coordenadas": [
+          320,
+          156,
+          476,
+          156,
+          476,
+          198,
+          320,
+          198
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag2_det5_logo_conf0.59.jpg",
+    "texto_completo": "2BCP)",
+    "precision_promedio": 0.4316256899189958,
+    "num_detecciones": 1,
+    "detecciones": [
+      {
+        "texto": "2BCP)",
+        "confianza": 0.4316256899189958,
+        "coordenadas": [
+          18,
+          18,
+          326,
+          18,
+          326,
+          118,
+          18,
+          118
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag2_det6_logo_conf0.51.jpg",
+    "texto_completo": "HOSTINGLABS HOSTING & SERvIcIOS CLCUD",
+    "precision_promedio": 0.7270084960177782,
+    "num_detecciones": 2,
+    "detecciones": [
+      {
+        "texto": "HOSTINGLABS",
+        "confianza": 0.9971578829786517,
+        "coordenadas": [
+          175,
+          26,
+          616,
+          26,
+          616,
+          126,
+          175,
+          126
+        ]
+      },
+      {
+        "texto": "HOSTING & SERvIcIOS CLCUD",
+        "confianza": 0.4568591090569046,
+        "coordenadas": [
+          348,
+          114,
+          604,
+          114,
+          604,
+          140,
+          348,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag2_det7_paragraph_conf0.48.jpg",
+    "texto_completo": "Interbank",
+    "precision_promedio": 0.9958436185718128,
+    "num_detecciones": 1,
+    "detecciones": [
+      {
+        "texto": "Interbank",
+        "confianza": 0.9958436185718128,
+        "coordenadas": [
+          121,
+          21,
+          489,
+          21,
+          489,
+          107,
+          121,
+          107
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag2_det8_paragraph_conf0.44.jpg",
+    "texto_completo": "contacto@hostinglabs.pe WWW hostinglabs. pe",
+    "precision_promedio": 0.8453159081683029,
+    "num_detecciones": 3,
+    "detecciones": [
+      {
+        "texto": "contacto@hostinglabs.pe",
+        "confianza": 0.7654149830351092,
+        "coordenadas": [
+          16,
+          18,
+          518,
+          18,
+          518,
+          74,
+          16,
+          74
+        ]
+      },
+      {
+        "texto": "WWW",
+        "confianza": 0.9989311474804236,
+        "coordenadas": [
+          103,
+          83,
+          215,
+          83,
+          215,
+          119,
+          103,
+          119
+        ]
+      },
+      {
+        "texto": "hostinglabs. pe",
+        "confianza": 0.7716015939893759,
+        "coordenadas": [
+          202,
+          72,
+          518,
+          72,
+          518,
+          128,
+          202,
+          128
+        ]
+      }
+    ]
+  },
+  {
+    "archivo": "pag2_det9_total_price_conf0.37.jpg",
+    "texto_completo": "Ponte en contacto con nosotros Llámanos al +51 637 3990 Av. Petit Thouars 1775 Of 204 contacto@hostinglabs pe Lince, 15046 www hostinglabs. pe",
+    "precision_promedio": 0.7935415092369569,
+    "num_detecciones": 7,
+    "detecciones": [
+      {
+        "texto": "Ponte en contacto con nosotros",
+        "confianza": 0.929472185839321,
+        "coordenadas": [
+          40,
+          50,
+          880,
+          50,
+          880,
+          111,
+          40,
+          111
+        ]
+      },
+      {
+        "texto": "Llámanos al",
+        "confianza": 0.9828056156122112,
+        "coordenadas": [
+          40,
+          110,
+          355,
+          110,
+          355,
+          173,
+          40,
+          173
+        ]
+      },
+      {
+        "texto": "+51 637 3990",
+        "confianza": 0.9337848223748056,
+        "coordenadas": [
+          372,
+          114,
+          720,
+          114,
+          720,
+          170,
+          372,
+          170
+        ]
+      },
+      {
+        "texto": "Av. Petit Thouars 1775 Of 204",
+        "confianza": 0.6325867710598638,
+        "coordenadas": [
+          44,
+          260,
+          626,
+          260,
+          626,
+          312,
+          44,
+          312
+        ]
+      },
+      {
+        "texto": "contacto@hostinglabs pe",
+        "confianza": 0.7737233921680081,
+        "coordenadas": [
+          1592,
+          261,
+          2094,
+          261,
+          2094,
+          317,
+          1592,
+          317
+        ]
+      },
+      {
+        "texto": "Lince, 15046",
+        "confianza": 0.7074775406114925,
+        "coordenadas": [
+          38,
+          316,
+          292,
+          316,
+          292,
+          368,
+          38,
+          368
+        ]
+      },
+      {
+        "texto": "www hostinglabs. pe",
+        "confianza": 0.5949402369929963,
+        "coordenadas": [
+          1674,
+          309,
+          2093,
+          309,
+          2093,
+          373,
+          1674,
+          373
+        ]
+      }
+    ]
+  }
+]
