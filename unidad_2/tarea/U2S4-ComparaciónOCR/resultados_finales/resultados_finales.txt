@@ -1,3 +1,3 @@
--------------------------------------RESULTADOS FINALES---------------
+-------------------------------------RESULTADOS FINALES----------------
 Mejores aciertos: PaddleOCR (43/500)
 Mejor tiempo de inferencia promedio: easyOCR (0.0230s)
